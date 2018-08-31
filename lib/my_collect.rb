@@ -27,6 +27,3 @@ def my_collect(lang, names)
   new_names
   
 end
-
-
->>>>>>> 6814b8553dbdec06f46c16258a513d1e1fe2ac6b
